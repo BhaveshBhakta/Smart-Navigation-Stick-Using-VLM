@@ -1,0 +1,5 @@
+dataset
+__pycache__
+training/processed_dataset
+yolov8n.pt
+blip_navigation_model
